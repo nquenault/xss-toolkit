@@ -1,0 +1,1 @@
+XSS Toolkit is a toolkit to make a lots of things with a xss vulnerability (including a prototype and a xmlhttprequest object)
